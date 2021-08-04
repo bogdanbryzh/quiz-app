@@ -1132,6 +1132,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@expo-google-fonts/open-sans@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/open-sans/-/open-sans-0.2.0.tgz#59d94d5994e75afed4a576344533d321250b86a5"
+  integrity sha512-lbRUwBvVuFqotB3OBdYI5d0Jj848hM16gvfAL/dKMgzXsamvCfNFoRqWojCpJNXl0rrmdNkuQFBwxY3A4DtN9A==
+
 "@expo/config-plugins@2.0.4":
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-2.0.4.tgz#955fd70a2aeefbe99ec71cecb1d7ea7b626dc79e"
